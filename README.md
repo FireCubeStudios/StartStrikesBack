@@ -29,7 +29,7 @@ Please help us by upvoting this github issue  https://github.com/microsoft/micro
 
 
   ### Source code notes
-  - The app is not fully open source yet. The full source code will be released before v1 is out.
+  - The app is not fully open source yet due to tight coupling with another unannounced project. The full source code will be released before v1 is out.
 
 
 <hr>
