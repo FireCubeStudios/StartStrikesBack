@@ -1,7 +1,8 @@
 <div align="center">
 <h1>StartStrikesBack</h1>
 
-<p style="font-size:15px;">StartStrikesBack is a free & open source multi-shell modular start menu replacement. Currently on v 0.1</p>
+<p style="font-size:15px;">StartStrikesBack is a free & open source multi-shell extensible modular start menu replacement. Currently on v 0.1</p>
+Please help us by upvoting this github issue  https://github.com/microsoft/microsoft-ui-xaml/issues/9276
 </div>
 
 
