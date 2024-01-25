@@ -16,7 +16,7 @@ Get StartStikesBack on Microsoft Store soon.
 
 
 ## Discord for progress
-- Join our [Discord Channel]([https://discord.gg/87qnqRB](https://discord.gg/windows-apps-hub-714581497222398064))
+- Join our [Discord Channel](https://discord.gg/windows-apps-hub-714581497222398064)
 
   ### Source code notes
   - The app is not fully open source yet. The full source code will be released before v1 is out.
