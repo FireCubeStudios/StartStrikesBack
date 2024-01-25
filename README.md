@@ -18,6 +18,14 @@ Please help us by upvoting this github issue  https://github.com/microsoft/micro
 ### Get StartStikesBack on Microsoft Store soon.
 
 
+### Progress
+- Open/close animations (finished but disabled in v 0.1)
+- Sync with taskbar button (finished but disabled in v 0.1)
+- LiveTiles + Tiled interface (in progress)
+- Jumplists (in progress)
+- Widgets + Win11 Widgets (in progress)
+- Extensible shells (Compact, Fullscreen styles)
+- Styles for Windows 8, 7, XP etc.
 
 
   ### Source code notes
