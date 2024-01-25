@@ -1,0 +1,95 @@
+﻿<UserControl x:ConnectionId='1'
+    x:Class="CubeKit.UI.Controls.Settings.SettingsDisplayControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CubeKit.UI.Controls.Settings"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <UserControl.Resources>
+        <local:InverseBooleanConverter x:Key="InverseBooleanConverter" />
+        <local:NullToTrueConverter x:Key="NullToFalseConverter" Inverse="True" />
+        <local:NullToTrueConverter x:Key="NullToTrueConverter" Inverse="False" />
+        <local:StringNullOrWhiteSpaceToTrueConverter x:Key="StringNullOrWhiteSpaceToFalseConverter" Inverse="True" />
+        <local:StringNullOrWhiteSpaceToTrueConverter x:Key="StringNullOrWhiteSpaceToTrueConverter" Inverse="False" />
+
+        <Style x:Key="TextBlockSettingDescriptionStyle" TargetType="TextBlock">
+            <Setter Property="TextWrapping" Value="Wrap" />
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="Opacity" Value="0.75" />
+        </Style>
+    </UserControl.Resources>
+
+    <Grid x:ConnectionId='2' x:Name="MainPanel" HorizontalAlignment="Stretch" VerticalAlignment="Center">
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup>
+                <VisualState x:ConnectionId='3' x:Name="NormalState">
+                    <VisualState.Setters>
+                        <Setter Target="ActionableElement.(Grid.Row)" Value="0" />
+                        <Setter Target="ActionableElement.(Grid.Column)" Value="2" />
+                        <Setter Target="ActionableElement.Margin" Value="24,0,0,0" />
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:ConnectionId='4' x:Name="CompactState">
+                    <VisualState.Setters>
+                        <Setter Target="ActionableElement.(Grid.Row)" Value="1" />
+                        <Setter Target="ActionableElement.(Grid.Column)" Value="1" />
+                        <Setter Target="ActionableElement.Margin" Value="0,4,0,0" />
+                    </VisualState.Setters>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <ContentPresenter x:ConnectionId='5' x:Name="SettingsIconElement"
+                          x:Load="False"                                                                      
+                                                              
+                          Margin="2,0,20,0"/>
+
+        <Grid x:ConnectionId='6' x:Name="DescriptionPanel"
+              Grid.Column="1"
+              VerticalAlignment="Center"
+              HorizontalAlignment="Left">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock x:ConnectionId='8' x:Name="TitleBlock"
+                       x:Load="False"                                                                                         
+                                                         
+                       TextWrapping="Wrap"/>
+
+            <TextBlock x:ConnectionId='9' x:Name="DescriptionBlock"
+                       x:Load="False"                                                                                               
+                       Grid.Row="1"
+                       Style="{StaticResource TextBlockSettingDescriptionStyle}"
+                                                               />
+
+            <ContentPresenter x:ConnectionId='10' x:Name="AdditionalContentPanel"
+                              x:Load="False"                                                                                              
+                              Grid.Row="2"
+                                                                                          />
+        </Grid>
+
+        <ContentPresenter x:ConnectionId='7' x:Name="ActionableElement"
+                          x:Load="False"                                                                                           
+                          Grid.Column="2"
+                          Margin="24,0,0,0"
+                          HorizontalAlignment="Left"
+                          VerticalAlignment="Center"
+                                                                                    />
+    </Grid>
+</UserControl>
+

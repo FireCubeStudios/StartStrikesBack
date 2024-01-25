@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "82v7oRYYDoMJhdiCMABj1F+ihsSO5vRTL1i1YhbLJ8bQj7cv+puBHqD7NKBEi4rPyj0R2DCGDP+/EdUcGgm1hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dulu\\source\\repos\\StartStrikesBack\\StartStrikesBack.Core\\StartStrikesBack.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dulu\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\Dulu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Dulu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Dulu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Dulu\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Dulu\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

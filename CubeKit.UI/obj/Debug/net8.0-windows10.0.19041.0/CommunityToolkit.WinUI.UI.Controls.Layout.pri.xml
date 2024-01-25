@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="CommunityToolkit.WinUI.UI.Controls.Layout" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+		</Qualifiers>
+		<ResourceMapSubtree name="CommunityToolkit.WinUI.UI.Controls.Layout">
+			<ResourceMapSubtree name="Resources">
+				<NamedResource name="WCT_BladeView_ExpandButton_Collapsed" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/CommunityToolkit.WinUI.UI.Controls.Layout/Resources/WCT_BladeView_ExpandButton_Collapsed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Collapse Blade</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WCT_BladeView_ExpandButton_Expanded" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/CommunityToolkit.WinUI.UI.Controls.Layout/Resources/WCT_BladeView_ExpandButton_Expanded">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Expand Blade</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WCT_GridSplitter_AutomationName" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/CommunityToolkit.WinUI.UI.Controls.Layout/Resources/WCT_GridSplitter_AutomationName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>GridSplitter</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="CommunityToolkit.WinUI.UI.Controls.Layout">
+				<ResourceMapSubtree name="BladeView">
+					<NamedResource name="BladeView.xbf" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/Files/CommunityToolkit.WinUI.UI.Controls.Layout/BladeView/BladeView.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Carousel">
+					<NamedResource name="Carousel.xbf" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/Files/CommunityToolkit.WinUI.UI.Controls.Layout/Carousel/Carousel.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Expander">
+					<NamedResource name="Expander.xbf" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/Files/CommunityToolkit.WinUI.UI.Controls.Layout/Expander/Expander.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="GridSplitter">
+					<NamedResource name="GridSplitter.xbf" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/Files/CommunityToolkit.WinUI.UI.Controls.Layout/GridSplitter/GridSplitter.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="HeaderedContentControl">
+					<NamedResource name="HeaderedContentControl.xbf" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/Files/CommunityToolkit.WinUI.UI.Controls.Layout/HeaderedContentControl/HeaderedContentControl.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="HeaderedItemsControl">
+					<NamedResource name="HeaderedItemsControl.xbf" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/Files/CommunityToolkit.WinUI.UI.Controls.Layout/HeaderedItemsControl/HeaderedItemsControl.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="LayoutTransformControl">
+					<NamedResource name="LayoutTransformControl.xbf" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/Files/CommunityToolkit.WinUI.UI.Controls.Layout/LayoutTransformControl/LayoutTransformControl.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ListDetailsView">
+					<NamedResource name="ListDetailsView.xbf" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/Files/CommunityToolkit.WinUI.UI.Controls.Layout/ListDetailsView/ListDetailsView.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="OrbitView">
+					<NamedResource name="OrbitView.xbf" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/Files/CommunityToolkit.WinUI.UI.Controls.Layout/OrbitView/OrbitView.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.Layout/Files/CommunityToolkit.WinUI.UI.Controls.Layout/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

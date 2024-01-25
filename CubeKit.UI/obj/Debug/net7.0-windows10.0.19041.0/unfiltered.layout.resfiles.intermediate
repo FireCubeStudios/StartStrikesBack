@@ -1,0 +1,11 @@
+CubeKit.UI\Controls\Buttons\TileButton.xbf
+CubeKit.UI\Controls\Settings\SettingsBlockControl.xbf
+CubeKit.UI\Controls\Settings\SettingsDisplayControl.xbf
+CubeKit.UI\Controls\Toolkit\DropShadowPanel.xbf
+CubeKit.UI\Materials\AuroraLite.xbf
+CubeKit.UI\Materials\BloomView.xbf
+CubeKit.UI\Styles\CubeThemeDictionary.xbf
+CubeKit.UI\Styles\CubeUI.xbf
+CubeKit.UI\Styles\GlowGradientUI.xbf
+CubeKit.UI\Styles\WindowChrome.xbf
+CubeKit.UI\Themes\Generic.xbf

@@ -1,0 +1,11 @@
+D:\Repos\StartStrikesBack\StartStrikesBack.Core\bin\Debug\net7.0\StartStrikesBack.Core.deps.json
+D:\Repos\StartStrikesBack\StartStrikesBack.Core\bin\Debug\net7.0\StartStrikesBack.Core.dll
+D:\Repos\StartStrikesBack\StartStrikesBack.Core\bin\Debug\net7.0\StartStrikesBack.Core.pdb
+D:\Repos\StartStrikesBack\StartStrikesBack.Core\obj\Debug\net7.0\StartStrikesBack.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\StartStrikesBack\StartStrikesBack.Core\obj\Debug\net7.0\StartStrikesBack.Core.AssemblyInfoInputs.cache
+D:\Repos\StartStrikesBack\StartStrikesBack.Core\obj\Debug\net7.0\StartStrikesBack.Core.AssemblyInfo.cs
+D:\Repos\StartStrikesBack\StartStrikesBack.Core\obj\Debug\net7.0\StartStrikesBack.Core.csproj.CoreCompileInputs.cache
+D:\Repos\StartStrikesBack\StartStrikesBack.Core\obj\Debug\net7.0\StartStrikesBack.Core.dll
+D:\Repos\StartStrikesBack\StartStrikesBack.Core\obj\Debug\net7.0\refint\StartStrikesBack.Core.dll
+D:\Repos\StartStrikesBack\StartStrikesBack.Core\obj\Debug\net7.0\StartStrikesBack.Core.pdb
+D:\Repos\StartStrikesBack\StartStrikesBack.Core\obj\Debug\net7.0\ref\StartStrikesBack.Core.dll

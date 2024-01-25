@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="CommunityToolkit.WinUI.UI.Controls.DataGrid" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="CommunityToolkit.WinUI.UI.Controls.DataGrid">
+				<ResourceMapSubtree name="DataGrid">
+					<NamedResource name="DataGrid.xbf" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.DataGrid/Files/CommunityToolkit.WinUI.UI.Controls.DataGrid/DataGrid/DataGrid.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://CommunityToolkit.WinUI.UI.Controls.DataGrid/Files/CommunityToolkit.WinUI.UI.Controls.DataGrid/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

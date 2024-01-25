@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StartStrikesBack.Core": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
