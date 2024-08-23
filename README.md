@@ -2,7 +2,7 @@
 <h1>StartStrikesBack</h1>
 
 <p style="font-size:15px;">StartStrikesBack is a free & open source multi-shell extensible modular start menu replacement. Currently on v 0.1</p>
-Please help us fix drag and drop by upvoting this github issue  https://github.com/microsoft/microsoft-ui-xaml/issues/9276
+Thank you everyone for your help in fixing the Drag & Drop issue. Development is now once again resuming.
 </div>
 
 ## Discord for progress
